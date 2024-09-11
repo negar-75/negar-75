@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on 42 Common Core projects, which you can find in my GitHub repositories.  
   
 
-- "🌱 I’m currently learning Python and exploring AI."  
+- 🌱 I’m currently learning Python and exploring AI. 
   
 
 - ❓ Ask me about anything related to C/C++  and JavaScript  
