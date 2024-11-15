@@ -6,7 +6,7 @@
 ### <div align="center">I'm Negar, an Electrical Engineer and a student at 42 Lisboa 👨‍💻, with 3 years of experience in computer science 🚀</div>  
   
 
-- 🔭 I’m currently working on 42 Common Core projects, which you can find in my GitHub repositories.  
+- 🔭 I’m currently working with BNPP in application developement role and 42 Common Core projects, which you can find in my GitHub repositories.  
   
 
 - 🌱 I’m currently learning Python and exploring AI. 
